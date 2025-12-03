@@ -2,7 +2,8 @@
 
 # 🐉 Skyrim Nmap GUI
 
-<img src="https://github.com/user-attachments/assets/269cb256-e4bb-41e7-b363-070c7815ab7c" width="500" alt="Skyrim Scanner Logo">
+
+<img src="https://github.com/user-attachments/assets/943ad9c2-630a-47e0-b20b-38d01f538734" width="500" alt="Skyrim Scanner Logo">
 
 <br/>
 
