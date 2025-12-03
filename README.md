@@ -69,7 +69,7 @@ To cast these spells, you must have the following installed on your system:
 git clone https://github.com/king-gh1dra/Skymap
 
 # 2. Enter the dungeon
-cd Skyrim-Nmap-GUI
+cd Skymap
 
 # 3. Cast the spell
 python3 skymap.py
