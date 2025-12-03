@@ -25,7 +25,7 @@
 This project was built for cybersecurity practice, UI creativity, and to make network enumeration feel less like work and more like delving into a Dwemer ruin.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a2010f64-acb3-43b5-9623-43cb2be31ebd" width="700" alt="Main Interface Screenshot">
+  
 </div>
 
 ## ✨ Features
